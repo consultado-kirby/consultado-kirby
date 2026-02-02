@@ -16,11 +16,10 @@
 const kirby = {
     location: "Taguig City, Metro Manila 🇵🇭",
     education: "Diploma in Information Technology",
-    university: "Polytechnic University of the Philippines - Taguig",
-    currentFocus: ["UI/UX Design", "Full Stack Development", "User Experience"],
+    university: "Polytechnic University of the Philippines - Taguig Branch",
+    currentFocus: ["UI/UX Design", "Full Stack Development"],
     lookingFor: "OJT Opportunities",
-    passion: "Creating meaningful digital products that solve real-world problems",
-    funFact: "I believe great design is invisible until you need it"
+    passion: "Creating meaningful digital products that solve real-world problems"
 };
 ```
 
