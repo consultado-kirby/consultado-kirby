@@ -1,29 +1,14 @@
 <div align="center">
 
-# Hi, I'm Kirby Consultado
-
 ### `Front-End Developer` **|** `UI/UX Designer`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Crafting+intuitive+digital+experiences;Building+user-centered+solutions;Always+learning%2C+always+growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Crafting+intuitive+digital+experiences;Building+user-centered+solutions" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## About Me
-
-```typescript
-const kirby = {
-    location: "Taguig City, Metro Manila 🇵🇭",
-    education: "Diploma in Information Technology",
-    university: "Polytechnic University of the Philippines - Taguig Branch",
-    currentFocus: ["UI/UX Design", "Full Stack Development"],
-    lookingFor: "OJT Opportunities",
-    passion: "Creating meaningful digital products that solve real-world problems"
-};
-```
-
-## Tech Arsenal
+## Technologies
 
 <div align="center">
 
@@ -54,12 +39,12 @@ const kirby = {
 
 ---
 
-## Let's Connect
+## Connect
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-kirbyconsultado%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirbyconsultado@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kirby_Consultado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirby-consultado-3750202b3/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://web-portfolio-kirby-consultado.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kirbyconsultado.vercel.app)
 
 </div>
