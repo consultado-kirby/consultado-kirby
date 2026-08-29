@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Kirby Gonzales Consultado
+# Hi, I'm Kirby Consultado
 
-### `UI/UX Designer` **|** `Web Developer`
+### `Front-End Developer` **|** `UI/UX Designer`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Crafting+intuitive+digital+experiences;Building+user-centered+solutions;Always+learning%2C+always+growing" alt="Typing SVG" />
 
@@ -22,19 +22,6 @@ const kirby = {
     passion: "Creating meaningful digital products that solve real-world problems"
 };
 ```
-
-<div align="center">
-
-### Currently, I am:
-
-Expanding expertise in **UI/UX Design**  
-Building full-stack web applications  
-Learning advanced design patterns  
-Seeking **OJT opportunities** to grow and contribute
-
-</div>
-
----
 
 ## Tech Arsenal
 
@@ -67,77 +54,6 @@ Seeking **OJT opportunities** to grow and contribute
 
 ---
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 MindStack
-**Web Application • Productivity**
-
-A comprehensive platform designed to make studying more effective and engaging through enhanced productivity features and intuitive UX.
-
-`Web App` `Productivity` `UX Design`
-
-</td>
-<td width="50%">
-
-### 🔐 Blind Vault
-**Web Application • Security**
-
-Secure banking platform enabling seamless transactions (deposits, withdrawals, transfers) with robust security measures and user-friendly interface.
-
-`Banking` `Security` `User Experience`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤝 YouthConnect
-**Web Application • Community**
-
-Platform connecting youth and SK Officials for local initiatives, fostering collaboration and community engagement through accessible design.
-
-`Community` `Engagement` `Collaboration`
-
-</td>
-<td width="50%">
-
-### 📚 Enrollment System
-**Web Application • Education**
-
-Streamlined enrollment management system for educational institutions, simplifying student registration and enrollment processes.
-
-`Education` `Management` `Accessibility`
-
-</td>
-</tr>
-</table>
-
----
-
-## Learning Journey
-
-```mermaid
-graph LR
-    A[Web Development] --> B[UI/UX Design]
-    B --> C[User Research]
-    B --> D[Prototyping]
-    B --> E[Design Systems]
-    A --> F[Full Stack]
-    F --> G[Frontend Frameworks]
-    F --> H[Backend APIs]
-    C --> I[Better Products]
-    D --> I
-    E --> I
-    G --> I
-    H --> I
-```
-
----
-
 ## Let's Connect
 
 <div align="center">
@@ -145,16 +61,5 @@ graph LR
 [![Email](https://img.shields.io/badge/Email-kirbyconsultado%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirbyconsultado@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kirby_Consultado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirby-consultado-3750202b3/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://web-portfolio-kirby-consultado.netlify.app/)
-
-</div>
-
-<div align="center">
-
-### Open to OJT Opportunities
-
-I'm actively seeking opportunities to contribute to real-world projects,  
-collaborate with experienced professionals, and grow my skills in UI/UX design and web development.
-
-**Let's build something amazing together!**
 
 </div>
